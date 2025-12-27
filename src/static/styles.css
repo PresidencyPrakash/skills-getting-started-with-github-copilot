@@ -85,6 +85,17 @@ section h3 {
   color: #555;
 }
 
+.delete-icon {
+  cursor: pointer;
+  color: red;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.delete-icon:hover {
+  color: darkred;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
